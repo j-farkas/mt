@@ -1,2 +1,1 @@
-# mt
-Movie Trailer website
+Run movies.py
